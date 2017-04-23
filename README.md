@@ -6,4 +6,4 @@ testing phase of AHABus/FCORE. Processed using the scripts in
 [ahabus/test-processing][2]
 
  [1]: https://github.com/ahabus/radio-parser
- [2]: https://github.com/ahabus/test-processing
+ [2]: https://github.com/ahabus/tests-processing
